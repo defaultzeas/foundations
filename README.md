@@ -1,2 +1,2 @@
 # foundations
-The Odin Project Foundation
+The Odin Project Foundation Course
